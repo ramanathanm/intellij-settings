@@ -56,6 +56,7 @@
       <jump line="1" column="2" filename="$USER_HOME$/workspaces/spring-boot-workspaces/first/src/main/resources/application-dev.properties" />
       <jump line="3" column="0" filename="$USER_HOME$/workspaces/spring-boot-workspaces/first/src/main/resources/application-dev.properties" />
       <jump line="0" column="0" filename="C:/softwares/workspaces/scb-bitbucket/svc/csl-lib-base/src/cdi-edmi-request.xml" />
+      <jump line="13" column="13" filename="C:/softwares/workspaces/scb-bitbucket/svc/csl-lib-base/src/main/java/com/sc/csl/retail/core/katharsis/CSLHttpAdapter.java" />
     </jumps>
     <registers>
       <register name="1" type="2">
@@ -120,6 +121,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="ide">
         <text>ctrl pressed A</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed O</text>
       </shortcut-conflict>
     </shortcut-conflicts>
     <editor>
