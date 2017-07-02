@@ -59,8 +59,8 @@
         <mark key="^" line="27" column="99" />
         <mark key="." line="27" column="99" />
       </file>
-      <file name="C:/softwares/workspaces/scb-bitbucket/svc/csl-svc-documents-v3/src/main/java/com/sc/retail/csl/documents/service/DocumentService.java" timestamp="1499014789649">
-        <mark key="[" line="182" column="15" />
+      <file name="C:/softwares/workspaces/scb-bitbucket/svc/csl-svc-documents-v3/src/main/java/com/sc/retail/csl/documents/service/DocumentService.java" timestamp="1499022575178">
+        <mark key="[" line="94" column="22" />
         <mark key="]" line="182" column="28" />
         <mark key="^" line="182" column="28" />
         <mark key="." line="182" column="28" />
@@ -199,6 +199,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed R</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed F</text>
       </shortcut-conflict>
     </shortcut-conflicts>
     <editor>
