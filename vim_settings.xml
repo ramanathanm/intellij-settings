@@ -24,7 +24,7 @@
         <mark key="^" line="322" column="39" />
         <mark key="." line="322" column="40" />
       </file>
-      <file name="C:/softwares/workspaces/scb-bitbucket/svc/csl-svc-documents-v3/src/main/java/com/sc/retail/csl/documents/endpoint/DocumentRepository.java" timestamp="1498992345657">
+      <file name="C:/softwares/workspaces/scb-bitbucket/svc/csl-svc-documents-v3/src/main/java/com/sc/retail/csl/documents/endpoint/DocumentRepository.java" timestamp="1498992891264">
         <mark key="'" line="42" column="42" />
       </file>
       <file name="$USER_HOME$/workspaces/spring-boot-workspaces/first/src/main/java/com/mram/springboot/FirstConfigurations.java" timestamp="1478781142563">
@@ -38,12 +38,6 @@
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
         <mark key="^" line="1" column="0" />
-      </file>
-      <file name="$USER_HOME$/workspaces/spring-boot-workspaces/first/src/main/resources/application-dev.properties" timestamp="1477058223239">
-        <mark key="'" line="1" column="0" />
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="1" column="0" />
-        <mark key="." line="1" column="0" />
       </file>
       <file name="C:/softwares/workspaces/scb-bitbucket/svc/csl-svc-service-request/.gitignore" timestamp="1495898149896">
         <mark key="[" line="6" column="0" />
@@ -72,7 +66,7 @@
         <mark key="." line="180" column="118" />
       </file>
       <file name="C:/softwares/workspaces/scb-bitbucket/svc/csl-svc-service-request/src/main/java/com/sc/retail/csl/servicerequest/scheduler/FilenetProcessJob.java" timestamp="1498979203070" />
-      <file name="/fragment.java" timestamp="1498991668019">
+      <file name="/fragment.java" timestamp="1498992841324">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspaces/spring-boot-workspaces/first/src/main/resources/application-dev.yml" timestamp="1476447105042">
