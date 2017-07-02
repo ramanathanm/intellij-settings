@@ -8,7 +8,7 @@
         <mark key="]" line="5" column="0" />
         <mark key="." line="5" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1498979040327">
+      <file name="/Dummy.txt" timestamp="1498984667963">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspaces/spring-boot-workspaces/first/src/main/resources/application.properties" timestamp="1476447653831">
@@ -23,6 +23,9 @@
         <mark key="]" line="322" column="40" />
         <mark key="^" line="322" column="39" />
         <mark key="." line="322" column="40" />
+      </file>
+      <file name="C:/softwares/workspaces/scb-bitbucket/svc/csl-svc-documents-v3/src/main/java/com/sc/retail/csl/documents/endpoint/DocumentRepository.java" timestamp="1498984371866">
+        <mark key="'" line="42" column="42" />
       </file>
       <file name="$USER_HOME$/workspaces/spring-boot-workspaces/first/src/main/java/com/mram/springboot/FirstConfigurations.java" timestamp="1478781142563">
         <mark key="[" line="5" column="0" />
@@ -62,6 +65,9 @@
         <mark key="." line="180" column="118" />
       </file>
       <file name="C:/softwares/workspaces/scb-bitbucket/svc/csl-svc-service-request/src/main/java/com/sc/retail/csl/servicerequest/scheduler/FilenetProcessJob.java" timestamp="1498979203070" />
+      <file name="/fragment.java" timestamp="1498984667930">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/workspaces/spring-boot-workspaces/first/src/main/resources/application-dev.yml" timestamp="1476447105042">
         <mark key="[" line="2" column="2" />
         <mark key="]" line="3" column="2" />
@@ -75,6 +81,7 @@
       <jump line="0" column="0" filename="C:/softwares/workspaces/scb-bitbucket/svc/csl-lib-base/src/cdi-edmi-request.xml" />
       <jump line="13" column="13" filename="C:/softwares/workspaces/scb-bitbucket/svc/csl-lib-base/src/main/java/com/sc/csl/retail/core/katharsis/CSLHttpAdapter.java" />
       <jump line="0" column="0" filename="C:/softwares/workspaces/scb-bitbucket/svc/csl-base-pom/pom.xml" />
+      <jump line="42" column="42" filename="C:/softwares/workspaces/scb-bitbucket/svc/csl-svc-documents-v3/src/main/java/com/sc/retail/csl/documents/endpoint/DocumentRepository.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -84,7 +91,7 @@
         <text>e</text>
       </register>
       <register name="/" type="4">
-        <text>org.quartz-scheduler</text>
+        <text encoding="base64">XDxmaWxlTmV0UHJvY2Vzc1w+</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
@@ -118,15 +125,16 @@
       </register>
     </registers>
     <search>
-      <last-search>org.quartz-scheduler</last-search>
+      <last-search encoding="base64">XDxmaWxlTmV0UHJvY2Vzc1w+</last-search>
       <last-offset />
-      <last-pattern>org.quartz-scheduler</last-pattern>
+      <last-pattern encoding="base64">XDxmaWxlTmV0UHJvY2Vzc1w+</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
         <entry>org.quartz-scheduler</entry>
+        <entry encoding="base64">XDxmaWxlTmV0UHJvY2Vzc1w+</entry>
       </history-search>
       <history-cmd>
         <entry>0</entry>
