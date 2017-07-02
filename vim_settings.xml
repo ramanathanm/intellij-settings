@@ -8,7 +8,9 @@
         <mark key="]" line="5" column="0" />
         <mark key="." line="5" column="0" />
       </file>
-      <file name="C:/softwares/workspaces/scb-bitbucket/svc/csl-svc-service-request/src/main/java/com/sc/retail/csl/servicerequest/endpoint/ServiceRequestRepository.java" timestamp="1498325502385" />
+      <file name="/Dummy.txt" timestamp="1498975893319">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/workspaces/spring-boot-workspaces/first/src/main/resources/application.properties" timestamp="1476447653831">
         <mark key="[" line="0" column="5" />
         <mark key="]" line="0" column="9" />
@@ -28,8 +30,12 @@
         <mark key="." line="5" column="0" />
         <mark key="^" line="11" column="9" />
       </file>
-      <file name="C:/softwares/workspaces/scb-bitbucket/svc/csl-svc-document/src/main/java/com/sc/retail/csl/documents/endpoint/DocumentRepository.java" timestamp="1498303044077" />
-      <file name="C:/softwares/workspaces/scb-bitbucket/svc/csl-svc-document/pom.xml" timestamp="1498302200814" />
+      <file name="C:/softwares/workspaces/scb-bitbucket/svc/csl-svc-service-request/src/main/resources/config/application.yml" timestamp="1498976805135">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="." line="1" column="0" />
+        <mark key="^" line="1" column="0" />
+      </file>
       <file name="$USER_HOME$/workspaces/spring-boot-workspaces/first/src/main/resources/application-dev.properties" timestamp="1477058223239">
         <mark key="'" line="1" column="0" />
         <mark key="[" line="1" column="0" />
@@ -55,8 +61,6 @@
         <mark key="^" line="180" column="118" />
         <mark key="." line="180" column="118" />
       </file>
-      <file name="C:/softwares/workspaces/scb-bitbucket/svc/csl-svc-document/src/main/java/com/sc/retail/csl/documents/dto/FilenetDto.java" timestamp="1498302828568" />
-      <file name="C:/softwares/workspaces/scb-bitbucket/svc/csl-svc-document/src/main/java/com/sc/retail/csl/documents/endpoint/DocumentUploadRepository.java" timestamp="1498302566434" />
       <file name="$USER_HOME$/workspaces/spring-boot-workspaces/first/src/main/resources/application-dev.yml" timestamp="1476447105042">
         <mark key="[" line="2" column="2" />
         <mark key="]" line="3" column="2" />
@@ -72,8 +76,8 @@
       <jump line="0" column="0" filename="C:/softwares/workspaces/scb-bitbucket/svc/csl-base-pom/pom.xml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>e</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>e</text>
@@ -82,31 +86,31 @@
         <text>org.quartz-scheduler</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5zcHJpbmdmcmFtZXdvcmsuYmVhbnMuZmFjdG9yeS5hbm5vdGF0aW9uLlZhbHVlOwo=</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5zcHJpbmdmcmFtZXdvcmsuc3RlcmVvdHlwZS5Db21wb25lbnQ7Cg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5zcHJpbmdmcmFtZXdvcmsuY29udGV4dC5hbm5vdGF0aW9uLkJlYW47Cg==</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="4" type="4">
+        <text encoding="base64">c2VydmljZWVucXVpcnk6CiAgc3B2MToKICAgIGluOgogICAgICBkYXRhc291cmNlOgogICAgICAgIGRhdGFTb3VyY2VOYW1lOiAiaW5EYXRhU291cmNlIgogICAgICAgIGRyaXZlckNsYXNzOiAib3JhY2xlLmpkYmMuT3JhY2xlRHJpdmVyIgogICAgICAgIGpkYmNVcmw6ICJqZGJjOm9yYWNsZTp0aGluOkAxMC4xMTIuMTg1LjIyOjE1MjE6dW9teWx0MDIiCiAgICAgICAgdXNlcjogIkNFTVNSRUFEIgogICAgICAgIHBhc3N3b3JkOiAiQ0VNU1JFQURfMTIzIgogICAgc2c6CiAgICAgIGRhdGFzb3VyY2U6CiAgICAgICAgZGF0YVNvdXJjZU5hbWU6ICJzZ0RhdGFTb3VyY2UiCiAgICAgICAgZHJpdmVyQ2xhc3M6ICJvcmFjbGUuamRiYy5PcmFjbGVEcml2ZXIiCiAgICAgICAgamRiY1VybDogImpkYmM6b3JhY2xlOnRoaW46QDEwLjExMi4xODUuMjI6MTUyMTp1b215bHQwMiIKICAgICAgICB1c2VyOiAiQ0VNU1JFQUQiCiAgICAgICAgcGFzc3dvcmQ6ICJDRU1TUkVBRF8xMjMiCg==</text>
+      </register>
       <register name="5" type="2">
-        <text encoding="base64">QENvbXBvbmVudAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Li4uCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">LS1zago=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">QEJlYW4oaWQ9ImZpcnN0Q29uZmlndXJhdGlvbnMiKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -145,6 +149,15 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed O</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed C</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed X</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed S</text>
       </shortcut-conflict>
     </shortcut-conflicts>
     <editor>
