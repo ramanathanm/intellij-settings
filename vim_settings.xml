@@ -57,6 +57,12 @@
         <mark key="^" line="41" column="25" />
         <mark key="." line="41" column="25" />
       </file>
+      <file name="C:/softwares/workspaces/scb-bitbucket/svc/csl-svc-documents-v3/src/main/java/com/sc/retail/csl/documents/service/DocumentService.java" timestamp="1498987605058">
+        <mark key="[" line="87" column="59" />
+        <mark key="]" line="87" column="59" />
+        <mark key="^" line="87" column="36" />
+        <mark key="." line="87" column="59" />
+      </file>
       <file name="C:/softwares/workspaces/scb-bitbucket/svc/csl-lib-base/src/cdi-edmi-request.xml" timestamp="1496038553697">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="0" column="0" />
@@ -65,7 +71,7 @@
         <mark key="." line="180" column="118" />
       </file>
       <file name="C:/softwares/workspaces/scb-bitbucket/svc/csl-svc-service-request/src/main/java/com/sc/retail/csl/servicerequest/scheduler/FilenetProcessJob.java" timestamp="1498979203070" />
-      <file name="/fragment.java" timestamp="1498984667930">
+      <file name="/fragment.java" timestamp="1498986056699">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspaces/spring-boot-workspaces/first/src/main/resources/application-dev.yml" timestamp="1476447105042">
@@ -84,11 +90,11 @@
       <jump line="42" column="42" filename="C:/softwares/workspaces/scb-bitbucket/svc/csl-svc-documents-v3/src/main/java/com/sc/retail/csl/documents/endpoint/DocumentRepository.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>e</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxmaWxlTmV0UHJvY2Vzc1w+</text>
