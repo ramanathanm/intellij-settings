@@ -24,7 +24,7 @@
         <mark key="^" line="322" column="39" />
         <mark key="." line="322" column="40" />
       </file>
-      <file name="C:/softwares/workspaces/scb-bitbucket/svc/csl-svc-documents-v3/src/main/java/com/sc/retail/csl/documents/endpoint/DocumentRepository.java" timestamp="1499012582753">
+      <file name="C:/softwares/workspaces/scb-bitbucket/svc/csl-svc-documents-v3/src/main/java/com/sc/retail/csl/documents/endpoint/DocumentRepository.java" timestamp="1499017512903">
         <mark key="." line="40" column="95" />
       </file>
       <file name="$USER_HOME$/workspaces/spring-boot-workspaces/first/src/main/java/com/mram/springboot/FirstConfigurations.java" timestamp="1478781142563">
@@ -46,7 +46,6 @@
         <mark key="^" line="5" column="5" />
         <mark key="." line="5" column="5" />
       </file>
-      <file name="C:/softwares/workspaces/scb-bitbucket/svc/csl-svc-documents-v3/src/main/java/com/sc/retail/csl/documents/helper/MergeDocumentsUtil.java" timestamp="1499005837909" />
       <file name="$USER_HOME$/workspaces/spring-boot-workspaces/first/pom.xml" timestamp="1477058283328">
         <mark key="[" line="40" column="72" />
         <mark key="]" line="41" column="25" />
@@ -65,7 +64,6 @@
         <mark key="^" line="182" column="28" />
         <mark key="." line="182" column="28" />
       </file>
-      <file name="C:/softwares/workspaces/scb-bitbucket/svc/csl-svc-documents-v3/src/main/java/com/sc/retail/csl/documents/dto/DocumentDto.java" timestamp="1499013383561" />
       <file name="C:/softwares/workspaces/scb-bitbucket/svc/csl-svc-service-request/src/main/java/com/sc/retail/csl/servicerequest/config/CSLQuartzConfig.java" timestamp="1499005042153">
         <mark key="'" line="105" column="58" />
       </file>
@@ -76,8 +74,6 @@
         <mark key="^" line="180" column="118" />
         <mark key="." line="180" column="118" />
       </file>
-      <file name="C:/softwares/workspaces/scb-bitbucket/svc/csl-svc-service-request/src/main/java/com/sc/retail/csl/servicerequest/scheduler/FilenetProcessJob.java" timestamp="1499008264438" />
-      <file name="C:/softwares/workspaces/scb-bitbucket/svc/csl-svc-service-request/src/main/java/com/sc/retail/csl/servicerequest/processor/ServiceRequestProcessor.java" timestamp="1499010626422" />
       <file name="/fragment.java" timestamp="1499010629724">
         <mark key="[" line="0" column="0" />
       </file>
@@ -87,7 +83,6 @@
         <mark key="^" line="3" column="2" />
         <mark key="." line="3" column="2" />
       </file>
-      <file name="C:/softwares/workspaces/scb-bitbucket/svc/csl-svc-documents-v3/src/main/java/com/sc/retail/csl/documents/entity/Document.java" timestamp="1499013276009" />
     </filemarks>
     <jumps>
       <jump line="1" column="2" filename="$USER_HOME$/workspaces/spring-boot-workspaces/first/src/main/resources/application-dev.properties" />
