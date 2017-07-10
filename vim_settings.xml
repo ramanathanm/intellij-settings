@@ -6,7 +6,6 @@
       <file name="/Dummy.txt" timestamp="1499340812002">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="C:/softwares/workspaces/scb-bitbucket/svc/csl-svc-service-request/src/main/java/com/sc/retail/csl/servicerequest/ServiceRequestApplication.java" timestamp="1499334678276" />
       <file name="$USER_HOME$/workspaces/spring-boot-workspaces/first/src/main/resources/application.properties" timestamp="1476447653831">
         <mark key="[" line="0" column="5" />
         <mark key="]" line="0" column="9" />
@@ -20,7 +19,6 @@
         <mark key="^" line="322" column="39" />
         <mark key="." line="322" column="40" />
       </file>
-      <file name="C:/softwares/workspaces/scb-bitbucket/svc/csl-lib-base/src/main/java/com/sc/csl/retail/core/config/JmsConfig.java" timestamp="1499340868822" />
       <file name="C:/softwares/workspaces/scb-bitbucket/svc/csl-svc-documents-v3/src/main/java/com/sc/retail/csl/documents/endpoint/DocumentRepository.java" timestamp="1499017512903">
         <mark key="." line="40" column="95" />
       </file>
@@ -69,9 +67,6 @@
       </file>
       <file name="C:/softwares/workspaces/scb-bitbucket/svc/csl-svc-service-request/src/main/java/com/sc/retail/csl/servicerequest/config/CSLQuartzConfig.java" timestamp="1499005042153">
         <mark key="'" line="105" column="58" />
-      </file>
-      <file name="C:/softwares/workspaces/scb-bitbucket/svc/csl-svc-documents-v3/src/main/java/com/sc/retail/csl/documents/gateway/FileNetGateway.java" timestamp="1499028416448">
-        <mark key="[" line="23" column="28" />
       </file>
       <file name="C:/softwares/workspaces/scb-bitbucket/svc/csl-lib-base/src/cdi-edmi-request.xml" timestamp="1496038553697">
         <mark key="'" line="0" column="0" />
