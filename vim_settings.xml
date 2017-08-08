@@ -4,11 +4,11 @@
     <globalmarks />
     <filemarks>
       <file name="C:/softwares/workspaces/scb-bitbucket/svc/csl-svc-spv1-service-requests/src/main/java/com/sc/retail/csl/servicerequest/endpoint/Spv1ServiceRequestRepository.java" timestamp="1502202987032" />
-      <file name="C:/softwares/workspaces/scb-bitbucket/svc/csl-svc-service-request/src/main/java/com/sc/csl/retail/servicerequest/endpoint/ServiceRequestRepository.java" timestamp="1502204192433">
-        <mark key="[" line="61" column="35" />
-        <mark key="]" line="62" column="3" />
-        <mark key="^" line="62" column="3" />
-        <mark key="." line="62" column="3" />
+      <file name="C:/softwares/workspaces/scb-bitbucket/svc/csl-svc-service-request/src/main/java/com/sc/csl/retail/servicerequest/endpoint/ServiceRequestRepository.java" timestamp="1502204233509">
+        <mark key="[" line="60" column="35" />
+        <mark key="]" line="61" column="3" />
+        <mark key="^" line="61" column="3" />
+        <mark key="." line="61" column="3" />
       </file>
       <file name="/Dummy.txt" timestamp="1499340812002">
         <mark key="[" line="0" column="0" />
@@ -35,12 +35,12 @@
         <mark key="." line="5" column="0" />
         <mark key="^" line="11" column="9" />
       </file>
-      <file name="C:/softwares/workspaces/scb-bitbucket/svc/csl-svc-service-request/src/main/resources/config/application.yml" timestamp="1502204148695">
+      <file name="C:/softwares/workspaces/scb-bitbucket/svc/csl-svc-service-request/src/main/resources/config/application.yml" timestamp="1502205246942">
         <mark key="'" line="119" column="30" />
-        <mark key="[" line="40" column="0" />
-        <mark key="]" line="1" column="0" />
-        <mark key="." line="1" column="0" />
-        <mark key="^" line="1" column="0" />
+        <mark key="[" line="41" column="15" />
+        <mark key="]" line="41" column="19" />
+        <mark key="." line="41" column="19" />
+        <mark key="^" line="41" column="19" />
       </file>
       <file name="C:/softwares/workspaces/scb-bitbucket/svc/csl-svc-service-request/.gitignore" timestamp="1495898149896">
         <mark key="[" line="6" column="0" />
@@ -59,6 +59,12 @@
         <mark key="]" line="41" column="4" />
         <mark key="^" line="41" column="4" />
         <mark key="." line="41" column="4" />
+      </file>
+      <file name="C:/softwares/workspaces/scb-bitbucket/svc/csl-svc-service-request/src/main/java/com/sc/csl/retail/servicerequest/service/StatusEnquiryService.java" timestamp="1502205232821">
+        <mark key="[" line="33" column="20" />
+        <mark key="]" line="33" column="21" />
+        <mark key="^" line="33" column="21" />
+        <mark key="." line="33" column="21" />
       </file>
       <file name="$USER_HOME$/workspaces/spring-boot-workspaces/first/pom.xml" timestamp="1477058283328">
         <mark key="[" line="40" column="72" />
@@ -124,53 +130,57 @@
       <jump line="103" column="51" filename="C:/softwares/workspaces/scb-bitbucket/svc/csl-svc-service-request/src/main/java/com/sc/retail/csl/servicerequest/processor/ServiceRequestProcessor.java" />
       <jump line="68" column="32" filename="C:/softwares/workspaces/scb-bitbucket/svc/csl-lib-base/src/main/java/com/sc/csl/retail/core/aspects/LogEnricherAspect.java" />
       <jump line="35" column="43" filename="C:/softwares/workspaces/scb-bitbucket/svc/csl-svc-service-request/src/main/java/com/sc/csl/retail/servicerequest/gateway/StatusEnquiryCEMSGateway.java" />
+      <jump line="32" column="37" filename="C:/softwares/workspaces/scb-bitbucket/svc/csl-svc-service-request/src/main/java/com/sc/csl/retail/servicerequest/service/StatusEnquiryService.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">TGlzdDxTcHYxU2VydmljZVJlcXVlc3RJbmZvPigpOw==</text>
+        <text>true</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">TGlzdDxTcHYxU2VydmljZVJlcXVlc3RJbmZvPigpOw==</text>
+        <text>true</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxkb2N1bWVudER0b1w+</text>
+        <text encoding="base64">XDxzZXJ2aWNlUmVxdWVzdGVPUFNMaXN0XD4=</text>
+      </register>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICBzZXJ2aWNlUmVxdWVzdFJlc3BvbnNlTGlzdC5hZGQoc2VydmljZVJlcXVlc3RMaXN0cyk7Cg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBsb2cuaW5mbygiRmlsZU5ldCBSZXNwb25zZSBJRCAtIEVPUFMgRG9jIFR5cGUgLSB7fSIsIGRvY0lkVHlwZSk7Cg==</text>
+        <text encoding="base64">CQlzcHYxU1JMaXN0LmFkZEFsbChzZXJ2aWNlUmVxdWVzdExpc3RzKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIGRvY3VtZW50RHRvMS5nZXRTZXNzaW9uSWQoKSwgZG9jdW1lbnREdG8xLmdldFJlbE51bWJlcigpKTsKICAgICAgICAgICAgICAgICAgICBsb2cuaW5mbygiRmlsZU5ldCBSZXNwb25zZSBJRCAtIEVPUFMgRG9jIFR5cGUgLSB7fSIsIGRvY0lkVHlwZSk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBkb2N1bWVudER0by5zZXREb2NJZFR5cGUoZG9jSWRUeXBlKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CUxpc3Q8U3B2MVNlcnZpY2VSZXF1ZXN0ZU9QU0luZm8+IHNlcnZpY2VSZXF1ZXN0ZU9QU0xpc3Q7Cg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBsb2cuaW5mbygiRmlsZU5ldCBSZXNwb25zZSBJRCAtIEVPUFMgRG9jIFR5cGUgLSB7fSIsIGRvY0lkVHlwZSk7Cg==</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">c2VydmljZWVucXVpcnk6CiAgc3B2MToKICAgIGluOgogICAgICBkYXRhc291cmNlOgogICAgICAgIGRhdGFTb3VyY2VOYW1lOiAiaW5EYXRhU291cmNlIgogICAgICAgIGRyaXZlckNsYXNzOiAib3JhY2xlLmpkYmMuT3JhY2xlRHJpdmVyIgogICAgICAgIGpkYmNVcmw6ICJqZGJjOm9yYWNsZTp0aGluOkAxMC4xMTIuMTg1LjIyOjE1MjE6dW9teWx0MDIiCiAgICAgICAgdXNlcjogIkNFTVNSRUFEIgogICAgICAgIHBhc3N3b3JkOiAiQ0VNU1JFQURfMTIzIgogICAgc2c6CiAgICAgIGRhdGFzb3VyY2U6CiAgICAgICAgZGF0YVNvdXJjZU5hbWU6ICJzZ0RhdGFTb3VyY2UiCiAgICAgICAgZHJpdmVyQ2xhc3M6ICJvcmFjbGUuamRiYy5PcmFjbGVEcml2ZXIiCiAgICAgICAgamRiY1VybDogImpkYmM6b3JhY2xlOnRoaW46QDEwLjExMi4xODUuMjI6MTUyMTp1b215bHQwMiIKICAgICAgICB1c2VyOiAiQ0VNU1JFQUQiCiAgICAgICAgcGFzc3dvcmQ6ICJDRU1TUkVBRF8xMjMiCg==</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIGRvY3VtZW50RHRvMS5nZXRTZXNzaW9uSWQoKSwgZG9jdW1lbnREdG8xLmdldFJlbE51bWJlcigpKTsKICAgICAgICAgICAgICAgICAgICBsb2cuaW5mbygiRmlsZU5ldCBSZXNwb25zZSBJRCAtIEVPUFMgRG9jIFR5cGUgLSB7fSIsIGRvY0lkVHlwZSk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBkb2N1bWVudER0by5zZXREb2NJZFR5cGUoZG9jSWRUeXBlKTsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxkb2N1bWVudER0b1w+</last-search>
+      <last-search encoding="base64">XDxzZXJ2aWNlUmVxdWVzdGVPUFNMaXN0XD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxkb2N1bWVudER0b1w+</last-pattern>
-      <last-dir>-1</last-dir>
+      <last-pattern encoding="base64">XDxzZXJ2aWNlUmVxdWVzdGVPUFNMaXN0XD4=</last-pattern>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
@@ -181,11 +191,12 @@
         <entry>tablePrefix</entry>
         <entry>scbGrpFnProcessInitiationInitiateProcessV1ResT</entry>
         <entry encoding="base64">XDxkb2N1bWVudER0b1w+</entry>
+        <entry encoding="base64">XDxzZXJ2aWNlUmVxdWVzdGVPUFNMaXN0XD4=</entry>
       </history-search>
       <history-cmd>
-        <entry>0</entry>
         <entry>118</entry>
         <entry>46</entry>
+        <entry>0</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
