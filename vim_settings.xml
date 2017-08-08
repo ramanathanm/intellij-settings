@@ -21,7 +21,7 @@
         <mark key="^" line="5" column="5" />
         <mark key="." line="5" column="5" />
       </file>
-      <file name="C:/softwares/workspaces/scb-bitbucket/svc/csl-svc-service-request/src/main/java/com/sc/csl/retail/servicerequest/service/StatusEnquiryService.java" timestamp="1502210474594">
+      <file name="C:/softwares/workspaces/scb-bitbucket/svc/csl-svc-service-request/src/main/java/com/sc/csl/retail/servicerequest/service/StatusEnquiryService.java" timestamp="1502217052869">
         <mark key="[" line="43" column="12" />
         <mark key="]" line="43" column="12" />
         <mark key="^" line="43" column="12" />
@@ -57,6 +57,13 @@
       <file name="C:/softwares/workspaces/scb-bitbucket/svc/csl-svc-service-request/src/main/java/com/sc/csl/retail/servicerequest/gateway/BaseSoapGateway.java" timestamp="1502216187110" />
       <file name="C:/softwares/workspaces/scb-bitbucket/svc/csl-svc-documents-v3/src/main/java/com/sc/retail/csl/documents/endpoint/DocumentRepository.java" timestamp="1499017512903">
         <mark key="." line="40" column="95" />
+      </file>
+      <file name="C:/softwares/workspaces/scb-bitbucket/svc/csl-svc-service-request/src/test/java/com/sc/csl/retail/servicerequest/service/StatusEnquiryServiceTest.java" timestamp="1502217227544">
+        <mark key="'" line="14" column="11" />
+        <mark key="[" line="40" column="36" />
+        <mark key="]" line="40" column="40" />
+        <mark key="." line="40" column="40" />
+        <mark key="^" line="40" column="40" />
       </file>
       <file name="C:/softwares/workspaces/scb-bitbucket/svc/csl-svc-service-request/src/main/resources/config/application.yml" timestamp="1502205246942">
         <mark key="'" line="119" column="30" />
@@ -123,16 +130,22 @@
       <jump line="68" column="32" filename="C:/softwares/workspaces/scb-bitbucket/svc/csl-lib-base/src/main/java/com/sc/csl/retail/core/aspects/LogEnricherAspect.java" />
       <jump line="35" column="43" filename="C:/softwares/workspaces/scb-bitbucket/svc/csl-svc-service-request/src/main/java/com/sc/csl/retail/servicerequest/gateway/StatusEnquiryCEMSGateway.java" />
       <jump line="32" column="37" filename="C:/softwares/workspaces/scb-bitbucket/svc/csl-svc-service-request/src/main/java/com/sc/csl/retail/servicerequest/service/StatusEnquiryService.java" />
+      <jump line="73" column="12" filename="C:/softwares/workspaces/scb-bitbucket/svc/csl-svc-service-request/src/test/java/com/sc/csl/retail/servicerequest/service/StatusEnquiryServiceTest.java" />
+      <jump line="40" column="41" filename="C:/softwares/workspaces/scb-bitbucket/svc/csl-svc-service-request/src/test/java/com/sc/csl/retail/servicerequest/service/StatusEnquiryServiceTest.java" />
+      <jump line="23" column="18" filename="C:/softwares/workspaces/scb-bitbucket/svc/csl-svc-service-request/src/test/java/com/sc/csl/retail/servicerequest/service/StatusEnquiryServiceTest.java" />
+      <jump line="24" column="18" filename="C:/softwares/workspaces/scb-bitbucket/svc/csl-svc-service-request/src/test/java/com/sc/csl/retail/servicerequest/service/StatusEnquiryServiceTest.java" />
+      <jump line="13" column="11" filename="C:/softwares/workspaces/scb-bitbucket/svc/csl-svc-service-request/src/test/java/com/sc/csl/retail/servicerequest/service/StatusEnquiryServiceTest.java" />
+      <jump line="14" column="11" filename="C:/softwares/workspaces/scb-bitbucket/svc/csl-svc-service-request/src/test/java/com/sc/csl/retail/servicerequest/service/StatusEnquiryServiceTest.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>E</text>
+        <text>true</text>
       </register>
       <register name="-" type="4">
-        <text>E</text>
+        <text>true</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxzZXJ2aWNlUmVxdWVzdGVPUFNMaXN0XD4=</text>
+        <text>mock</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBzZXJ2aWNlUmVxdWVzdFJlc3BvbnNlTGlzdC5hZGQoc2VydmljZVJlcXVlc3RMaXN0cyk7Cg==</text>
@@ -141,37 +154,37 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQlzcHYxU1JMaXN0LmFkZEFsbChzZXJ2aWNlUmVxdWVzdExpc3RzKTsK</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQlzcHYxU1JMaXN0LmFkZEFsbChzZXJ2aWNlUmVxdWVzdExpc3RzKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CUxpc3Q8U3B2MVNlcnZpY2VSZXF1ZXN0ZU9QU0luZm8+IHNlcnZpY2VSZXF1ZXN0ZU9QU0xpc3Q7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBsb2cuaW5mbygiRmlsZU5ldCBSZXNwb25zZSBJRCAtIEVPUFMgRG9jIFR5cGUgLSB7fSIsIGRvY0lkVHlwZSk7Cg==</text>
+        <text encoding="base64">CUxpc3Q8U3B2MVNlcnZpY2VSZXF1ZXN0ZU9QU0luZm8+IHNlcnZpY2VSZXF1ZXN0ZU9QU0xpc3Q7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIGRvY3VtZW50RHRvMS5nZXRTZXNzaW9uSWQoKSwgZG9jdW1lbnREdG8xLmdldFJlbE51bWJlcigpKTsKICAgICAgICAgICAgICAgICAgICBsb2cuaW5mbygiRmlsZU5ldCBSZXNwb25zZSBJRCAtIEVPUFMgRG9jIFR5cGUgLSB7fSIsIGRvY0lkVHlwZSk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBkb2N1bWVudER0by5zZXREb2NJZFR5cGUoZG9jSWRUeXBlKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBsb2cuaW5mbygiRmlsZU5ldCBSZXNwb25zZSBJRCAtIEVPUFMgRG9jIFR5cGUgLSB7fSIsIGRvY0lkVHlwZSk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxzZXJ2aWNlUmVxdWVzdGVPUFNMaXN0XD4=</last-search>
+      <last-search>mock</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxzZXJ2aWNlUmVxdWVzdGVPUFNMaXN0XD4=</last-pattern>
+      <last-pattern>mock</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -184,6 +197,8 @@
         <entry>scbGrpFnProcessInitiationInitiateProcessV1ResT</entry>
         <entry encoding="base64">XDxkb2N1bWVudER0b1w+</entry>
         <entry encoding="base64">XDxzZXJ2aWNlUmVxdWVzdGVPUFNMaXN0XD4=</entry>
+        <entry encoding="base64">XDxlbmFibGVTcHYxU1JzXD4=</entry>
+        <entry>mock</entry>
       </history-search>
       <history-cmd>
         <entry>118</entry>
