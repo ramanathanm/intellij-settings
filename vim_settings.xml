@@ -39,7 +39,7 @@
         <mark key="^" line="182" column="28" />
         <mark key="." line="182" column="28" />
       </file>
-      <file name="C:/softwares/workspaces/scb-bitbucket/svc/csl-svc-service-request/src/main/java/com/sc/csl/retail/servicerequest/gateway/StatusEnquiryEOPSGateway.java" timestamp="1502216318907" />
+      <file name="C:/softwares/workspaces/scb-bitbucket/svc/csl-svc-service-request/src/main/java/com/sc/csl/retail/servicerequest/gateway/StatusEnquiryEOPSGateway.java" timestamp="1502222037280" />
       <file name="C:/softwares/workspaces/scb-bitbucket/svc/csl-svc-documents-v3/src/main/java/com/sc/retail/csl/documents/gateway/FileNetGateway.java" timestamp="1499028416448">
         <mark key="[" line="23" column="28" />
       </file>
@@ -55,9 +55,6 @@
       </file>
       <file name="/StatusEnquiryService.java" timestamp="1502206634940" />
       <file name="C:/softwares/workspaces/scb-bitbucket/svc/csl-svc-service-request/src/main/java/com/sc/csl/retail/servicerequest/gateway/BaseSoapGateway.java" timestamp="1502216187110" />
-      <file name="C:/softwares/workspaces/scb-bitbucket/svc/csl-svc-documents-v3/src/main/java/com/sc/retail/csl/documents/endpoint/DocumentRepository.java" timestamp="1499017512903">
-        <mark key="." line="40" column="95" />
-      </file>
       <file name="C:/softwares/workspaces/scb-bitbucket/svc/csl-svc-service-request/src/test/java/com/sc/csl/retail/servicerequest/service/StatusEnquiryServiceTest.java" timestamp="1502217227544">
         <mark key="'" line="14" column="11" />
         <mark key="[" line="40" column="36" />
@@ -84,6 +81,7 @@
         <mark key="^" line="60" column="67" />
         <mark key="." line="60" column="67" />
       </file>
+      <file name="C:/softwares/workspaces/scb-bitbucket/svc/csl-svc-service-request/src/main/java/com/sc/csl/retail/servicerequest/dto/helper/StatusEnquiryPayLoad.java" timestamp="1502221727117" />
       <file name="C:/softwares/workspaces/scb-bitbucket/svc/csl-lib-base/src/main/java/com/sc/csl/retail/core/CSLSpringBootApplication.java" timestamp="1499334801638">
         <mark key="[" line="32" column="36" />
         <mark key="]" line="41" column="4" />
@@ -96,8 +94,10 @@
         <mark key="^" line="27" column="99" />
         <mark key="." line="27" column="99" />
       </file>
-      <file name="/fragment.java" timestamp="1502216191997">
+      <file name="/fragment.java" timestamp="1502221824141">
         <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="38" />
+        <mark key="." line="0" column="38" />
       </file>
       <file name="$USER_HOME$/workspaces/spring-boot-workspaces/first/src/main/resources/application-dev.yml" timestamp="1476447105042">
         <mark key="[" line="2" column="2" />
@@ -139,10 +139,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>true</text>
+        <text>relNumber</text>
       </register>
       <register name="-" type="4">
-        <text>true</text>
+        <text>relNumber</text>
       </register>
       <register name="/" type="4">
         <text>mock</text>
