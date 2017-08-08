@@ -6,7 +6,6 @@
       <file name="/Dummy.txt" timestamp="1499340812002">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="C:/softwares/workspaces/scb-bitbucket/svc/csl-svc-service-request/src/main/java/com/sc/retail/csl/servicerequest/ServiceRequestApplication.java" timestamp="1499334678276" />
       <file name="$USER_HOME$/workspaces/spring-boot-workspaces/first/src/main/resources/application.properties" timestamp="1476447653831">
         <mark key="[" line="0" column="5" />
         <mark key="]" line="0" column="9" />
@@ -20,7 +19,6 @@
         <mark key="^" line="322" column="39" />
         <mark key="." line="322" column="40" />
       </file>
-      <file name="C:/softwares/workspaces/scb-bitbucket/svc/csl-lib-base/src/main/java/com/sc/csl/retail/core/config/JmsConfig.java" timestamp="1499340868822" />
       <file name="C:/softwares/workspaces/scb-bitbucket/svc/csl-svc-documents-v3/src/main/java/com/sc/retail/csl/documents/endpoint/DocumentRepository.java" timestamp="1499017512903">
         <mark key="." line="40" column="95" />
       </file>
@@ -115,10 +113,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>documentDto</text>
+        <text>lib-base.git</text>
       </register>
       <register name="-" type="4">
-        <text>documentDto</text>
+        <text>lib-base.git</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxkb2N1bWVudER0b1w+</text>
