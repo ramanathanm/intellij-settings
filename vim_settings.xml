@@ -3,7 +3,7 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="C:/softwares/workspaces/scb-bitbucket/svc/csl-svc-service-request/src/main/java/com/sc/csl/retail/servicerequest/endpoint/ServiceRequestRepository.java" timestamp="1502293349104">
+      <file name="C:/softwares/workspaces/scb-bitbucket/svc/csl-svc-service-request/src/main/java/com/sc/csl/retail/servicerequest/endpoint/ServiceRequestRepository.java" timestamp="1502294027924">
         <mark key="'" line="95" column="47" />
         <mark key="[" line="103" column="15" />
         <mark key="]" line="103" column="15" />
@@ -22,11 +22,11 @@
         <mark key="^" line="5" column="5" />
         <mark key="." line="5" column="5" />
       </file>
-      <file name="C:/softwares/workspaces/scb-bitbucket/svc/csl-svc-service-request/src/main/java/com/sc/csl/retail/servicerequest/service/StatusEnquiryService.java" timestamp="1502217052869">
-        <mark key="[" line="43" column="12" />
-        <mark key="]" line="43" column="12" />
-        <mark key="^" line="43" column="12" />
-        <mark key="." line="43" column="12" />
+      <file name="C:/softwares/workspaces/scb-bitbucket/svc/csl-svc-service-request/src/main/java/com/sc/csl/retail/servicerequest/service/StatusEnquiryService.java" timestamp="1502294080639">
+        <mark key="[" line="42" column="49" />
+        <mark key="]" line="42" column="49" />
+        <mark key="^" line="44" column="12" />
+        <mark key="." line="42" column="49" />
       </file>
       <file name="$USER_HOME$/workspaces/spring-boot-workspaces/first/pom.xml" timestamp="1477058283328">
         <mark key="[" line="40" column="72" />
@@ -183,16 +183,16 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>convertServiceRequestToServiceRequestDto(serviceRequest);</text>
+        <text>= statusEnquiryCEMSGateway.getServiceRequests(customerRelnumber, countryCode);</text>
       </register>
       <register name="-" type="4">
-        <text>convertServiceRequestToServiceRequestDto(serviceRequest);</text>
+        <text>= statusEnquiryCEMSGateway.getServiceRequests(customerRelnumber, countryCode);</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxyZXNwb25zZVw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gY29udmVydFNlcnZpY2VSZXF1ZXN0VG9TZXJ2aWNlUmVxdWVzdER0byhzZXJ2aWNlUmVxdWVzdCk7Cg==</text>
+        <text encoding="base64">Ly8JCUxpc3Q8U3B2MVNlcnZpY2VSZXF1ZXN0SW5mbz4gc2VydmljZUxpc3QgPSBzdGF0dXNFbnF1aXJ5Q0VNU0dhdGV3YXkuZ2V0U2VydmljZVJlcXVlc3RzKGN1c3RvbWVyUmVsbnVtYmVyLCBjb3VudHJ5Q29kZSk7Cg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
