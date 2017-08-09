@@ -9,6 +9,48 @@
         <mark key="^" line="61" column="3" />
         <mark key="." line="61" column="3" />
       </file>
+      <file name="$USER_HOME$/workspaces/spring-boot-workspaces/first/src/main/java/com/mram/springboot/FirstConfigurations.java" timestamp="1478781142563">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
+        <mark key="^" line="11" column="9" />
+      </file>
+      <file name="C:/softwares/workspaces/scb-bitbucket/svc/csl-svc-service-request/.gitignore" timestamp="1495898149896">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="5" column="5" />
+        <mark key="^" line="5" column="5" />
+        <mark key="." line="5" column="5" />
+      </file>
+      <file name="C:/softwares/workspaces/scb-bitbucket/svc/csl-svc-service-request/src/main/java/com/sc/csl/retail/servicerequest/service/StatusEnquiryService.java" timestamp="1502217052869">
+        <mark key="[" line="43" column="12" />
+        <mark key="]" line="43" column="12" />
+        <mark key="^" line="43" column="12" />
+        <mark key="." line="43" column="12" />
+      </file>
+      <file name="$USER_HOME$/workspaces/spring-boot-workspaces/first/pom.xml" timestamp="1477058283328">
+        <mark key="[" line="40" column="72" />
+        <mark key="]" line="41" column="25" />
+        <mark key="^" line="41" column="25" />
+        <mark key="." line="41" column="25" />
+      </file>
+      <file name="C:/softwares/workspaces/scb-bitbucket/svc/csl-svc-service-request/src/main/resources/config/application-statusenquiry.yml" timestamp="1502267538040">
+        <mark key="[" line="7" column="42" />
+        <mark key="]" line="7" column="43" />
+        <mark key="^" line="7" column="43" />
+        <mark key="." line="7" column="43" />
+      </file>
+      <file name="C:/softwares/workspaces/scb-bitbucket/svc/csl-svc-documents-v3/src/main/java/com/sc/retail/csl/documents/service/DocumentService.java" timestamp="1499022575178">
+        <mark key="[" line="94" column="22" />
+        <mark key="]" line="182" column="28" />
+        <mark key="^" line="182" column="28" />
+        <mark key="." line="182" column="28" />
+      </file>
+      <file name="C:/softwares/workspaces/scb-bitbucket/svc/csl-svc-documents-v3/src/main/java/com/sc/retail/csl/documents/gateway/FileNetGateway.java" timestamp="1499028416448">
+        <mark key="[" line="23" column="28" />
+      </file>
+      <file name="$MAVEN_REPOSITORY$/com/sc/rdc/csl/csl-base-pom/7.0.8/csl-base-pom-7.0.8.pom" timestamp="1502278983881">
+        <mark key="'" line="458" column="38" />
+      </file>
       <file name="/Dummy.txt" timestamp="1499340812002">
         <mark key="[" line="0" column="0" />
       </file>
@@ -18,6 +60,13 @@
         <mark key="^" line="0" column="9" />
         <mark key="." line="0" column="9" />
       </file>
+      <file name="C:/softwares/workspaces/scb-bitbucket/svc/csl-base-pom/pom.xml" timestamp="1502279558072">
+        <mark key="'" line="107" column="33" />
+        <mark key="[" line="466" column="25" />
+        <mark key="]" line="466" column="25" />
+        <mark key="." line="466" column="25" />
+        <mark key="^" line="107" column="30" />
+      </file>
       <file name="C:/softwares/workspaces/scb-bitbucket/svc/csl-svc-service-request/src/test/java/com/sc/csl/retail/servicerequest/service/StatusEnquiryServiceTest.java" timestamp="1502217227544">
         <mark key="'" line="14" column="11" />
         <mark key="[" line="40" column="36" />
@@ -25,11 +74,11 @@
         <mark key="." line="40" column="40" />
         <mark key="^" line="40" column="40" />
       </file>
-      <file name="$USER_HOME$/workspaces/spring-boot-workspaces/first/src/main/java/com/mram/springboot/FirstConfigurations.java" timestamp="1478781142563">
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="5" column="0" />
-        <mark key="." line="5" column="0" />
-        <mark key="^" line="11" column="9" />
+      <file name="C:/softwares/workspaces/scb-bitbucket/svc/csl-svc-service-request/src/main/java/com/sc/csl/retail/servicerequest/gateway/CustomerGateway.java" timestamp="1502279167661">
+        <mark key="[" line="31" column="130" />
+        <mark key="]" line="31" column="7" />
+        <mark key="^" line="31" column="7" />
+        <mark key="." line="31" column="7" />
       </file>
       <file name="C:/softwares/workspaces/scb-bitbucket/svc/csl-svc-service-request/src/main/resources/config/application.yml" timestamp="1502205246942">
         <mark key="'" line="117" column="30" />
@@ -37,12 +86,6 @@
         <mark key="]" line="39" column="19" />
         <mark key="." line="39" column="19" />
         <mark key="^" line="39" column="19" />
-      </file>
-      <file name="C:/softwares/workspaces/scb-bitbucket/svc/csl-svc-service-request/.gitignore" timestamp="1495898149896">
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="5" column="5" />
-        <mark key="^" line="5" column="5" />
-        <mark key="." line="5" column="5" />
       </file>
       <file name="C:/softwares/workspaces/scb-bitbucket/svc/csl-svc-spv1-service-requests/src/main/java/com/sc/retail/csl/servicerequest/dao/Spv1ServiceEnquiryRepositoryDao.java" timestamp="1502203900072">
         <mark key="[" line="44" column="72" />
@@ -62,38 +105,11 @@
         <mark key="^" line="41" column="4" />
         <mark key="." line="41" column="4" />
       </file>
-      <file name="C:/softwares/workspaces/scb-bitbucket/svc/csl-svc-service-request/src/main/java/com/sc/csl/retail/servicerequest/service/StatusEnquiryService.java" timestamp="1502217052869">
-        <mark key="[" line="43" column="12" />
-        <mark key="]" line="43" column="12" />
-        <mark key="^" line="43" column="12" />
-        <mark key="." line="43" column="12" />
-      </file>
-      <file name="$USER_HOME$/workspaces/spring-boot-workspaces/first/pom.xml" timestamp="1477058283328">
-        <mark key="[" line="40" column="72" />
-        <mark key="]" line="41" column="25" />
-        <mark key="^" line="41" column="25" />
-        <mark key="." line="41" column="25" />
-      </file>
       <file name="C:/softwares/workspaces/scb-bitbucket/svc/csl-svc-documents-v3/src/main/java/com/sc/retail/csl/documents/dao/DocumentRepositoryDao.java" timestamp="1499013333488">
         <mark key="[" line="27" column="64" />
         <mark key="]" line="27" column="99" />
         <mark key="^" line="27" column="99" />
         <mark key="." line="27" column="99" />
-      </file>
-      <file name="C:/softwares/workspaces/scb-bitbucket/svc/csl-svc-service-request/src/main/resources/config/application-statusenquiry.yml" timestamp="1502267538040">
-        <mark key="[" line="7" column="42" />
-        <mark key="]" line="7" column="43" />
-        <mark key="^" line="7" column="43" />
-        <mark key="." line="7" column="43" />
-      </file>
-      <file name="C:/softwares/workspaces/scb-bitbucket/svc/csl-svc-documents-v3/src/main/java/com/sc/retail/csl/documents/service/DocumentService.java" timestamp="1499022575178">
-        <mark key="[" line="94" column="22" />
-        <mark key="]" line="182" column="28" />
-        <mark key="^" line="182" column="28" />
-        <mark key="." line="182" column="28" />
-      </file>
-      <file name="C:/softwares/workspaces/scb-bitbucket/svc/csl-svc-documents-v3/src/main/java/com/sc/retail/csl/documents/gateway/FileNetGateway.java" timestamp="1499028416448">
-        <mark key="[" line="23" column="28" />
       </file>
       <file name="/fragment.java" timestamp="1502221824141">
         <mark key="[" line="0" column="0" />
@@ -137,16 +153,22 @@
       <jump line="24" column="18" filename="C:/softwares/workspaces/scb-bitbucket/svc/csl-svc-service-request/src/test/java/com/sc/csl/retail/servicerequest/service/StatusEnquiryServiceTest.java" />
       <jump line="13" column="11" filename="C:/softwares/workspaces/scb-bitbucket/svc/csl-svc-service-request/src/test/java/com/sc/csl/retail/servicerequest/service/StatusEnquiryServiceTest.java" />
       <jump line="14" column="11" filename="C:/softwares/workspaces/scb-bitbucket/svc/csl-svc-service-request/src/test/java/com/sc/csl/retail/servicerequest/service/StatusEnquiryServiceTest.java" />
+      <jump line="0" column="0" filename="$MAVEN_REPOSITORY$/com/sc/rdc/csl/csl-base-pom/7.0.8/csl-base-pom-7.0.8.pom" />
+      <jump line="105" column="58" filename="$MAVEN_REPOSITORY$/com/sc/rdc/csl/csl-base-pom/7.0.8/csl-base-pom-7.0.8.pom" />
+      <jump line="456" column="36" filename="$MAVEN_REPOSITORY$/com/sc/rdc/csl/csl-base-pom/7.0.8/csl-base-pom-7.0.8.pom" />
+      <jump line="457" column="39" filename="$MAVEN_REPOSITORY$/com/sc/rdc/csl/csl-base-pom/7.0.8/csl-base-pom-7.0.8.pom" />
+      <jump line="458" column="38" filename="$MAVEN_REPOSITORY$/com/sc/rdc/csl/csl-base-pom/7.0.8/csl-base-pom-7.0.8.pom" />
+      <jump line="107" column="33" filename="C:/softwares/workspaces/scb-bitbucket/svc/csl-base-pom/pom.xml" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>g</text>
+        <text>0</text>
       </register>
       <register name="-" type="4">
-        <text>g</text>
+        <text>0</text>
       </register>
       <register name="/" type="4">
-        <text>mock</text>
+        <text>jsonpath</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBzZXJ2aWNlUmVxdWVzdFJlc3BvbnNlTGlzdC5hZGQoc2VydmljZVJlcXVlc3RMaXN0cyk7Cg==</text>
@@ -155,37 +177,37 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">CQkJCTxhcnRpZmFjdElkPjwvYXJ0aWZhY3RJZD4K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkJCTxncm91cElkPjwvZ3JvdXBJZD4K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQlzcHYxU1JMaXN0LmFkZEFsbChzZXJ2aWNlUmVxdWVzdExpc3RzKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CUxpc3Q8U3B2MVNlcnZpY2VSZXF1ZXN0ZU9QU0luZm8+IHNlcnZpY2VSZXF1ZXN0ZU9QU0xpc3Q7Cg==</text>
+        <text encoding="base64">CQlzcHYxU1JMaXN0LmFkZEFsbChzZXJ2aWNlUmVxdWVzdExpc3RzKTsK</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBsb2cuaW5mbygiRmlsZU5ldCBSZXNwb25zZSBJRCAtIEVPUFMgRG9jIFR5cGUgLSB7fSIsIGRvY0lkVHlwZSk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
       </register>
     </registers>
     <search>
-      <last-search>mock</last-search>
+      <last-search>jsonpath</last-search>
       <last-offset />
-      <last-pattern>mock</last-pattern>
+      <last-pattern>jsonpath</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -200,13 +222,19 @@
         <entry encoding="base64">XDxzZXJ2aWNlUmVxdWVzdGVPUFNMaXN0XD4=</entry>
         <entry encoding="base64">XDxlbmFibGVTcHYxU1JzXD4=</entry>
         <entry>mock</entry>
+        <entry>jsonap</entry>
+        <entry>jsonpah</entry>
+        <entry>jsonp</entry>
+        <entry>json</entry>
+        <entry>jayway</entry>
+        <entry>jsonpath</entry>
       </history-search>
       <history-cmd>
         <entry>118</entry>
         <entry>46</entry>
-        <entry>0</entry>
         <entry>w</entry>
         <entry>q</entry>
+        <entry>0</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -247,6 +275,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed H</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed D</text>
       </shortcut-conflict>
     </shortcut-conflicts>
     <editor>
