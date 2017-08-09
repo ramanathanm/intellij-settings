@@ -10,6 +10,12 @@
         <mark key="^" line="103" column="14" />
         <mark key="." line="103" column="15" />
       </file>
+      <file name="C:/softwares/workspaces/scb-bitbucket/svc/csl-svc-service-request/pom.xml" timestamp="1502294858465">
+        <mark key="[" line="15" column="21" />
+        <mark key="]" line="15" column="22" />
+        <mark key="." line="15" column="22" />
+        <mark key="^" line="15" column="22" />
+      </file>
       <file name="$USER_HOME$/workspaces/spring-boot-workspaces/first/src/main/java/com/mram/springboot/FirstConfigurations.java" timestamp="1478781142563">
         <mark key="[" line="5" column="0" />
         <mark key="]" line="5" column="0" />
@@ -198,10 +204,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>9</text>
+        <text>8</text>
       </register>
       <register name="-" type="4">
-        <text>9</text>
+        <text>8</text>
       </register>
       <register name="/" type="4">
         <text>csl-validator</text>
