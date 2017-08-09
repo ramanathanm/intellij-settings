@@ -9,41 +9,6 @@
         <mark key="^" line="61" column="3" />
         <mark key="." line="61" column="3" />
       </file>
-      <file name="$USER_HOME$/workspaces/spring-boot-workspaces/first/src/main/java/com/mram/springboot/FirstConfigurations.java" timestamp="1478781142563">
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="5" column="0" />
-        <mark key="." line="5" column="0" />
-        <mark key="^" line="11" column="9" />
-      </file>
-      <file name="C:/softwares/workspaces/scb-bitbucket/svc/csl-svc-service-request/.gitignore" timestamp="1495898149896">
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="5" column="5" />
-        <mark key="^" line="5" column="5" />
-        <mark key="." line="5" column="5" />
-      </file>
-      <file name="C:/softwares/workspaces/scb-bitbucket/svc/csl-svc-service-request/src/main/java/com/sc/csl/retail/servicerequest/service/StatusEnquiryService.java" timestamp="1502217052869">
-        <mark key="[" line="43" column="12" />
-        <mark key="]" line="43" column="12" />
-        <mark key="^" line="43" column="12" />
-        <mark key="." line="43" column="12" />
-      </file>
-      <file name="$USER_HOME$/workspaces/spring-boot-workspaces/first/pom.xml" timestamp="1477058283328">
-        <mark key="[" line="40" column="72" />
-        <mark key="]" line="41" column="25" />
-        <mark key="^" line="41" column="25" />
-        <mark key="." line="41" column="25" />
-      </file>
-      <file name="C:/softwares/workspaces/scb-bitbucket/svc/csl-svc-documents-v3/src/main/java/com/sc/retail/csl/documents/service/DocumentService.java" timestamp="1499022575178">
-        <mark key="[" line="94" column="22" />
-        <mark key="]" line="182" column="28" />
-        <mark key="^" line="182" column="28" />
-        <mark key="." line="182" column="28" />
-      </file>
-      <file name="C:/softwares/workspaces/scb-bitbucket/svc/csl-svc-service-request/src/main/java/com/sc/csl/retail/servicerequest/gateway/StatusEnquiryEOPSGateway.java" timestamp="1502222037280" />
-      <file name="C:/softwares/workspaces/scb-bitbucket/svc/csl-svc-documents-v3/src/main/java/com/sc/retail/csl/documents/gateway/FileNetGateway.java" timestamp="1499028416448">
-        <mark key="[" line="23" column="28" />
-      </file>
-      <file name="C:/softwares/workspaces/scb-bitbucket/svc/csl-svc-spv1-service-requests/src/main/java/com/sc/retail/csl/servicerequest/endpoint/Spv1ServiceRequestRepository.java" timestamp="1502202987032" />
       <file name="/Dummy.txt" timestamp="1499340812002">
         <mark key="[" line="0" column="0" />
       </file>
@@ -53,8 +18,6 @@
         <mark key="^" line="0" column="9" />
         <mark key="." line="0" column="9" />
       </file>
-      <file name="/StatusEnquiryService.java" timestamp="1502206634940" />
-      <file name="C:/softwares/workspaces/scb-bitbucket/svc/csl-svc-service-request/src/main/java/com/sc/csl/retail/servicerequest/gateway/BaseSoapGateway.java" timestamp="1502216187110" />
       <file name="C:/softwares/workspaces/scb-bitbucket/svc/csl-svc-service-request/src/test/java/com/sc/csl/retail/servicerequest/service/StatusEnquiryServiceTest.java" timestamp="1502217227544">
         <mark key="'" line="14" column="11" />
         <mark key="[" line="40" column="36" />
@@ -62,12 +25,24 @@
         <mark key="." line="40" column="40" />
         <mark key="^" line="40" column="40" />
       </file>
+      <file name="$USER_HOME$/workspaces/spring-boot-workspaces/first/src/main/java/com/mram/springboot/FirstConfigurations.java" timestamp="1478781142563">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
+        <mark key="^" line="11" column="9" />
+      </file>
       <file name="C:/softwares/workspaces/scb-bitbucket/svc/csl-svc-service-request/src/main/resources/config/application.yml" timestamp="1502205246942">
         <mark key="'" line="119" column="30" />
         <mark key="[" line="41" column="15" />
         <mark key="]" line="41" column="19" />
         <mark key="." line="41" column="19" />
         <mark key="^" line="41" column="19" />
+      </file>
+      <file name="C:/softwares/workspaces/scb-bitbucket/svc/csl-svc-service-request/.gitignore" timestamp="1495898149896">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="5" column="5" />
+        <mark key="^" line="5" column="5" />
+        <mark key="." line="5" column="5" />
       </file>
       <file name="C:/softwares/workspaces/scb-bitbucket/svc/csl-svc-spv1-service-requests/src/main/java/com/sc/retail/csl/servicerequest/dao/Spv1ServiceEnquiryRepositoryDao.java" timestamp="1502203900072">
         <mark key="[" line="44" column="72" />
@@ -81,18 +56,44 @@
         <mark key="^" line="60" column="67" />
         <mark key="." line="60" column="67" />
       </file>
-      <file name="C:/softwares/workspaces/scb-bitbucket/svc/csl-svc-service-request/src/main/java/com/sc/csl/retail/servicerequest/dto/helper/StatusEnquiryPayLoad.java" timestamp="1502221727117" />
       <file name="C:/softwares/workspaces/scb-bitbucket/svc/csl-lib-base/src/main/java/com/sc/csl/retail/core/CSLSpringBootApplication.java" timestamp="1499334801638">
         <mark key="[" line="32" column="36" />
         <mark key="]" line="41" column="4" />
         <mark key="^" line="41" column="4" />
         <mark key="." line="41" column="4" />
       </file>
+      <file name="C:/softwares/workspaces/scb-bitbucket/svc/csl-svc-service-request/src/main/java/com/sc/csl/retail/servicerequest/service/StatusEnquiryService.java" timestamp="1502217052869">
+        <mark key="[" line="43" column="12" />
+        <mark key="]" line="43" column="12" />
+        <mark key="^" line="43" column="12" />
+        <mark key="." line="43" column="12" />
+      </file>
+      <file name="$USER_HOME$/workspaces/spring-boot-workspaces/first/pom.xml" timestamp="1477058283328">
+        <mark key="[" line="40" column="72" />
+        <mark key="]" line="41" column="25" />
+        <mark key="^" line="41" column="25" />
+        <mark key="." line="41" column="25" />
+      </file>
       <file name="C:/softwares/workspaces/scb-bitbucket/svc/csl-svc-documents-v3/src/main/java/com/sc/retail/csl/documents/dao/DocumentRepositoryDao.java" timestamp="1499013333488">
         <mark key="[" line="27" column="64" />
         <mark key="]" line="27" column="99" />
         <mark key="^" line="27" column="99" />
         <mark key="." line="27" column="99" />
+      </file>
+      <file name="C:/softwares/workspaces/scb-bitbucket/svc/csl-svc-service-request/src/main/resources/config/application-statusenquiry.yml" timestamp="1502267538040">
+        <mark key="[" line="7" column="42" />
+        <mark key="]" line="7" column="43" />
+        <mark key="^" line="7" column="43" />
+        <mark key="." line="7" column="43" />
+      </file>
+      <file name="C:/softwares/workspaces/scb-bitbucket/svc/csl-svc-documents-v3/src/main/java/com/sc/retail/csl/documents/service/DocumentService.java" timestamp="1499022575178">
+        <mark key="[" line="94" column="22" />
+        <mark key="]" line="182" column="28" />
+        <mark key="^" line="182" column="28" />
+        <mark key="." line="182" column="28" />
+      </file>
+      <file name="C:/softwares/workspaces/scb-bitbucket/svc/csl-svc-documents-v3/src/main/java/com/sc/retail/csl/documents/gateway/FileNetGateway.java" timestamp="1499028416448">
+        <mark key="[" line="23" column="28" />
       </file>
       <file name="/fragment.java" timestamp="1502221824141">
         <mark key="[" line="0" column="0" />
@@ -139,10 +140,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>relNumber</text>
+        <text>g</text>
       </register>
       <register name="-" type="4">
-        <text>relNumber</text>
+        <text>g</text>
       </register>
       <register name="/" type="4">
         <text>mock</text>
@@ -178,7 +179,7 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBsb2cuaW5mbygiRmlsZU5ldCBSZXNwb25zZSBJRCAtIEVPUFMgRG9jIFR5cGUgLSB7fSIsIGRvY0lkVHlwZSk7Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>q</text>
       </register>
     </registers>
     <search>
@@ -205,6 +206,7 @@
         <entry>46</entry>
         <entry>0</entry>
         <entry>w</entry>
+        <entry>q</entry>
       </history-cmd>
       <history-expr />
       <history-input />
