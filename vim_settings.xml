@@ -3,11 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="C:/softwares/workspaces/scb-bitbucket/svc/csl-svc-service-request/src/main/java/com/sc/csl/retail/servicerequest/endpoint/ServiceRequestRepository.java" timestamp="1502285442909">
-        <mark key="[" line="75" column="55" />
-        <mark key="]" line="75" column="55" />
-        <mark key="^" line="75" column="55" />
-        <mark key="." line="75" column="55" />
+      <file name="C:/softwares/workspaces/scb-bitbucket/svc/csl-svc-service-request/src/main/java/com/sc/csl/retail/servicerequest/endpoint/ServiceRequestRepository.java" timestamp="1502288142564">
+        <mark key="'" line="95" column="47" />
+        <mark key="[" line="75" column="8" />
+        <mark key="]" line="75" column="14" />
+        <mark key="^" line="75" column="14" />
+        <mark key="." line="75" column="14" />
       </file>
       <file name="/Dummy.txt" timestamp="1499340812002">
         <mark key="[" line="0" column="0" />
@@ -170,16 +171,18 @@
       <jump line="457" column="39" filename="$MAVEN_REPOSITORY$/com/sc/rdc/csl/csl-base-pom/7.0.8/csl-base-pom-7.0.8.pom" />
       <jump line="458" column="38" filename="$MAVEN_REPOSITORY$/com/sc/rdc/csl/csl-base-pom/7.0.8/csl-base-pom-7.0.8.pom" />
       <jump line="107" column="33" filename="C:/softwares/workspaces/scb-bitbucket/svc/csl-base-pom/pom.xml" />
+      <jump line="75" column="40" filename="C:/softwares/workspaces/scb-bitbucket/svc/csl-svc-service-request/src/main/java/com/sc/csl/retail/servicerequest/endpoint/ServiceRequestRepository.java" />
+      <jump line="95" column="47" filename="C:/softwares/workspaces/scb-bitbucket/svc/csl-svc-service-request/src/main/java/com/sc/csl/retail/servicerequest/endpoint/ServiceRequestRepository.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>phoneNumber</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>jsonpath</text>
+        <text encoding="base64">XDxyZXNwb25zZVw+</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4ocGhvbmVOdW1iZXIpOwo=</text>
@@ -216,9 +219,9 @@
       </register>
     </registers>
     <search>
-      <last-search>jsonpath</last-search>
+      <last-search encoding="base64">XDxyZXNwb25zZVw+</last-search>
       <last-offset />
-      <last-pattern>jsonpath</last-pattern>
+      <last-pattern encoding="base64">XDxyZXNwb25zZVw+</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -239,6 +242,7 @@
         <entry>json</entry>
         <entry>jayway</entry>
         <entry>jsonpath</entry>
+        <entry encoding="base64">XDxyZXNwb25zZVw+</entry>
       </history-search>
       <history-cmd>
         <entry>118</entry>
