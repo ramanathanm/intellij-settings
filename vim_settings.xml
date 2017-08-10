@@ -64,7 +64,7 @@
       <file name="$MAVEN_REPOSITORY$/com/sc/rdc/csl/csl-base-pom/7.0.8/csl-base-pom-7.0.8.pom" timestamp="1502278983881">
         <mark key="'" line="458" column="38" />
       </file>
-      <file name="/Dummy.txt" timestamp="1499340812002">
+      <file name="/Dummy.txt" timestamp="1502336974820">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspaces/spring-boot-workspaces/first/src/main/resources/application.properties" timestamp="1476447653831">
@@ -86,12 +86,6 @@
         <mark key="]" line="40" column="40" />
         <mark key="." line="40" column="40" />
         <mark key="^" line="40" column="40" />
-      </file>
-      <file name="C:/softwares/workspaces/scb-bitbucket/svc/csl-svc-service-request/src/main/java/com/sc/csl/retail/servicerequest/gateway/CustomerGateway.java" timestamp="1502279167661">
-        <mark key="[" line="31" column="130" />
-        <mark key="]" line="31" column="7" />
-        <mark key="^" line="31" column="7" />
-        <mark key="." line="31" column="7" />
       </file>
       <file name="C:/softwares/workspaces/scb-bitbucket/svc/csl-svc-service-request/src/main/resources/config/application.yml" timestamp="1502205246942">
         <mark key="'" line="117" column="30" />
@@ -140,7 +134,6 @@
         <mark key="]" line="0" column="38" />
         <mark key="." line="0" column="38" />
       </file>
-      <file name="/ServiceRequestRepository.java" timestamp="1502288201679" />
       <file name="$USER_HOME$/workspaces/spring-boot-workspaces/first/src/main/resources/application-dev.yml" timestamp="1476447105042">
         <mark key="[" line="2" column="2" />
         <mark key="]" line="3" column="2" />
