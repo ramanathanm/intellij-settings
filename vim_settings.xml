@@ -3,7 +3,13 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="C:/softwares/workspaces/scb-bitbucket/svc/csl-svc-service-request/src/main/java/com/sc/csl/retail/servicerequest/endpoint/ServiceRequestRepository.java" timestamp="1502556910893" />
+      <file name="C:/softwares/workspaces/scb-bitbucket/svc/csl-svc-service-request/src/main/java/com/sc/csl/retail/servicerequest/endpoint/ServiceRequestRepository.java" timestamp="1502603620255">
+        <mark key="'" line="58" column="30" />
+        <mark key="[" line="106" column="113" />
+        <mark key="]" line="107" column="11" />
+        <mark key="^" line="107" column="11" />
+        <mark key="." line="107" column="11" />
+      </file>
       <file name="C:/softwares/workspaces/scb-bitbucket/svc/csl-svc-fere2/src/main/java/com/sc/csl/retail/fere/model/formdata/FormData.java" timestamp="1502554315461" />
       <file name="C:/softwares/workspaces/scb-bitbucket/svc/csl-svc-service-request/pom.xml" timestamp="1502294858465">
         <mark key="[" line="15" column="21" />
@@ -100,6 +106,11 @@
         <mark key="^" line="60" column="67" />
         <mark key="." line="60" column="67" />
       </file>
+      <file name="C:/softwares/workspaces/scb-bitbucket/svc/csl-svc-service-request/src/main/java/com/sc/csl/retail/servicerequest/dao/MessageTemplateRepositoryDao.java" timestamp="1502603730775">
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="0" />
+        <mark key="." line="12" column="0" />
+      </file>
       <file name="C:/softwares/workspaces/scb-bitbucket/svc/csl-lib-base/src/main/java/com/sc/csl/retail/core/CSLSpringBootApplication.java" timestamp="1499334801638">
         <mark key="[" line="32" column="36" />
         <mark key="]" line="41" column="4" />
@@ -127,6 +138,11 @@
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="38" />
         <mark key="." line="0" column="38" />
+      </file>
+      <file name="C:/softwares/workspaces/scb-bitbucket/svc/csl-svc-service-request/src/main/java/com/sc/csl/retail/servicerequest/dao/ServiceRequestStatusRepositoryDao.java" timestamp="1502603709929">
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="0" />
+        <mark key="." line="10" column="0" />
       </file>
       <file name="$USER_HOME$/workspaces/spring-boot-workspaces/first/src/main/resources/application-dev.yml" timestamp="1476447105042">
         <mark key="[" line="2" column="2" />
@@ -193,61 +209,61 @@
       <jump line="80" column="25" filename="C:/softwares/workspaces/scb-bitbucket/svc/csl-svc-service-request/src/main/java/com/sc/csl/retail/servicerequest/endpoint/ServiceRequestRepository.java" />
       <jump line="79" column="2" filename="C:/softwares/workspaces/scb-bitbucket/svc/csl-svc-service-request/src/main/resources/config/application.yml" />
       <jump line="51" column="8" filename="C:/softwares/workspaces/scb-bitbucket/svc/csl-svc-service-request/src/main/java/com/sc/csl/retail/servicerequest/gateway/StatusEnquiryEOPSGateway.java" />
+      <jump line="62" column="30" filename="C:/softwares/workspaces/scb-bitbucket/svc/csl-svc-service-request/src/main/java/com/sc/csl/retail/servicerequest/endpoint/ServiceRequestRepository.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxFbnF1aXJlU3RhdHVzUmVxXD4=</text>
+        <text encoding="base64">XDxjc2xSZXF1ZXN0Q29udGV4dFw+</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">Ly8JCUxpc3Q8U3B2MVNlcnZpY2VSZXF1ZXN0SW5mbz4gc2VydmljZUxpc3QgPSBzdGF0dXNFbnF1aXJ5Q0VNU0dhdGV3YXkuZ2V0U2VydmljZVJlcXVlc3RzKGN1c3RvbWVyUmVsbnVtYmVyLCBjb3VudHJ5Q29kZSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICArIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBmaWx0ZXJzID0gcXVlcnlTcGVjLmdldEZpbHRlcnMoKTsK</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBMaXN0PEZpbHRlclNwZWM+IGZpbHRlcnMgPSBudWxsOwo=</text>
-      </register>
-      <register name="5" type="2">
+      <register name="3" type="4">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgLyoqIFJlY2VpcHQgSWQgZ2VuZXJhdGlvbiAqLwo=</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQlyZXR1cm4gc2VydmljZVJlcXVlc3REdG87Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQl9Cg==</text>
+        <text encoding="base64">ICAgIEBWYWx1ZSgiJHtzZXJ2aWNlLnJlcXVlc3QuZWRtaS5zdWJzY3JpYmVyLmRlc3RpbmF0aW9ufSIpCiAgICBwcml2YXRlIFN0cmluZyBkZXN0TmFtZTsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxFbnF1aXJlU3RhdHVzUmVxXD4=</last-search>
+      <last-search encoding="base64">XDxjc2xSZXF1ZXN0Q29udGV4dFw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxFbnF1aXJlU3RhdHVzUmVxXD4=</last-pattern>
-      <last-dir>-1</last-dir>
+      <last-pattern encoding="base64">XDxjc2xSZXF1ZXN0Q29udGV4dFw+</last-pattern>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDx0YWJsZVByZWZpeFw+</entry>
         <entry>tablePrefix</entry>
         <entry>scbGrpFnProcessInitiationInitiateProcessV1ResT</entry>
         <entry encoding="base64">XDxkb2N1bWVudER0b1w+</entry>
@@ -267,6 +283,7 @@
         <entry encoding="base64">XDxzZWxlY3Rvclw+</entry>
         <entry>selector</entry>
         <entry encoding="base64">XDxFbnF1aXJlU3RhdHVzUmVxXD4=</entry>
+        <entry encoding="base64">XDxjc2xSZXF1ZXN0Q29udGV4dFw+</entry>
       </history-search>
       <history-cmd>
         <entry>118</entry>
@@ -318,6 +335,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed D</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed W</text>
       </shortcut-conflict>
     </shortcut-conflicts>
     <editor>
