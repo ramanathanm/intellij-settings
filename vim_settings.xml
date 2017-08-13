@@ -11,7 +11,7 @@
         <mark key="." line="107" column="11" />
       </file>
       <file name="C:/softwares/workspaces/scb-bitbucket/svc/csl-svc-fere2/src/main/java/com/sc/csl/retail/fere/model/formdata/FormData.java" timestamp="1502554315461" />
-      <file name="C:/softwares/workspaces/scb-bitbucket/svc/csl-svc-service-request/src/main/java/com/sc/csl/retail/servicerequest/listener/ServiceRequestNotificationListener.java" timestamp="1502620361349">
+      <file name="C:/softwares/workspaces/scb-bitbucket/svc/csl-svc-service-request/src/main/java/com/sc/csl/retail/servicerequest/listener/ServiceRequestNotificationListener.java" timestamp="1502621922025">
         <mark key="[" line="21" column="0" />
         <mark key="]" line="21" column="0" />
         <mark key="^" line="27" column="7" />
@@ -38,6 +38,7 @@
         <mark key="]" line="287" column="0" />
         <mark key="." line="287" column="0" />
       </file>
+      <file name="C:/softwares/workspaces/scb-bitbucket/svc/csl-svc-notifications-v3/src/main/resources/config/application.yml" timestamp="1502623352394" />
       <file name="C:/softwares/workspaces/scb-bitbucket/svc/csl-svc-service-request/src/main/java/com/sc/csl/retail/servicerequest/gateway/StatusEnquiryEOPSGateway.java" timestamp="1502619635114">
         <mark key="'" line="42" column="8" />
         <mark key="[" line="90" column="0" />
@@ -54,7 +55,7 @@
         <mark key="." line="110" column="11" />
         <mark key="^" line="110" column="11" />
       </file>
-      <file name="/Dummy.txt" timestamp="1502348880606">
+      <file name="/Dummy.txt" timestamp="1502621905701">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="C:/softwares/workspaces/scb-bitbucket/svc/csl-svc-service-request/src/main/java/com/sc/csl/retail/servicerequest/gateway/EDMIGatewayService.java" timestamp="1502605875467">
@@ -72,6 +73,13 @@
         <mark key="]" line="73" column="7" />
         <mark key="^" line="73" column="7" />
         <mark key="." line="73" column="7" />
+      </file>
+      <file name="C:/softwares/workspaces/scb-bitbucket/svc/csl-svc-service-request/src/main/resources/config/application.yml" timestamp="1502622459689">
+        <mark key="'" line="155" column="2" />
+        <mark key="[" line="39" column="15" />
+        <mark key="]" line="39" column="19" />
+        <mark key="." line="39" column="19" />
+        <mark key="^" line="39" column="19" />
       </file>
       <file name="C:/softwares/workspaces/scb-bitbucket/svc/csl-lib-base/src/main/java/com/sc/csl/retail/core/aspects/LogEnricherAspect.java" timestamp="1502535528052" />
       <file name="C:/softwares/workspaces/scb-bitbucket/svc/csl-svc-service-request/src/main/java/com/sc/csl/retail/servicerequest/dao/MessageTemplateRepositoryDao.java" timestamp="1502603730775">
@@ -156,6 +164,7 @@
       <jump line="51" column="8" filename="C:/softwares/workspaces/scb-bitbucket/svc/csl-svc-service-request/src/main/java/com/sc/csl/retail/servicerequest/gateway/StatusEnquiryEOPSGateway.java" />
       <jump line="62" column="30" filename="C:/softwares/workspaces/scb-bitbucket/svc/csl-svc-service-request/src/main/java/com/sc/csl/retail/servicerequest/endpoint/ServiceRequestRepository.java" />
       <jump line="72" column="68" filename="C:/softwares/workspaces/scb-bitbucket/svc/csl-svc-service-request/src/main/java/com/sc/csl/retail/servicerequest/listener/ServiceRequestStatusResponseListener.java" />
+      <jump line="155" column="2" filename="C:/softwares/workspaces/scb-bitbucket/svc/csl-svc-service-request/src/main/resources/config/application.yml" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -165,7 +174,7 @@
         <text encoding="base64">U3RhdHVzRW5xdWlyeUVPUFNHYXRld2F5IA==</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxjc2xSZXF1ZXN0Q29udGV4dFw+</text>
+        <text>service.notification.edmi.subscriber</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">Ly8JCUxpc3Q8U3B2MVNlcnZpY2VSZXF1ZXN0SW5mbz4gc2VydmljZUxpc3QgPSBzdGF0dXNFbnF1aXJ5Q0VNU0dhdGV3YXkuZ2V0U2VydmljZVJlcXVlc3RzKGN1c3RvbWVyUmVsbnVtYmVyLCBjb3VudHJ5Q29kZSk7Cg==</text>
@@ -202,16 +211,14 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxjc2xSZXF1ZXN0Q29udGV4dFw+</last-search>
+      <last-search>service.notification.edmi.subscriber</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxjc2xSZXF1ZXN0Q29udGV4dFw+</last-pattern>
+      <last-pattern>service.notification.edmi.subscriber</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>tablePrefix</entry>
-        <entry>scbGrpFnProcessInitiationInitiateProcessV1ResT</entry>
         <entry encoding="base64">XDxkb2N1bWVudER0b1w+</entry>
         <entry encoding="base64">XDxzZXJ2aWNlUmVxdWVzdGVPUFNMaXN0XD4=</entry>
         <entry encoding="base64">XDxlbmFibGVTcHYxU1JzXD4=</entry>
@@ -230,6 +237,8 @@
         <entry>selector</entry>
         <entry encoding="base64">XDxFbnF1aXJlU3RhdHVzUmVxXD4=</entry>
         <entry encoding="base64">XDxjc2xSZXF1ZXN0Q29udGV4dFw+</entry>
+        <entry>service.notification.edmi.subscriber.destination</entry>
+        <entry>service.notification.edmi.subscriber</entry>
       </history-search>
       <history-cmd>
         <entry>118</entry>
