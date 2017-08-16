@@ -58,6 +58,7 @@
         <mark key="^" line="63" column="55" />
         <mark key="." line="63" column="55" />
       </file>
+      <file name="C:/softwares/workspaces/scb-bitbucket/svc/csl-svc-service-request/src/main/java/com/sc/csl/retail/servicerequest/gateway/StatusEnquiryEOPSGateway.java" timestamp="1502872481895" />
       <file name="C:/softwares/workspaces/scb-bitbucket/svc/csl-svc-documents-v3/src/main/java/com/sc/retail/csl/documents/gateway/FileNetGateway.java" timestamp="1499028416448">
         <mark key="[" line="23" column="28" />
       </file>
@@ -89,7 +90,6 @@
         <mark key="^" line="137" column="24" />
         <mark key="." line="142" column="0" />
       </file>
-      <file name="C:/softwares/workspaces/scb-bitbucket/svc/csl-svc-fere2/src/main/java/com/sc/csl/retail/fere/services/FereFormAdapter.java" timestamp="1502799144864" />
       <file name="C:/softwares/workspaces/scb-bitbucket/svc/csl-svc-service-request/src/main/java/com/sc/csl/retail/servicerequest/listener/ServiceRequestStatusResponseListener.java" timestamp="1502614198228">
         <mark key="[" line="72" column="146" />
         <mark key="]" line="73" column="7" />
@@ -140,7 +140,7 @@
         <mark key="]" line="130" column="0" />
         <mark key="." line="130" column="0" />
       </file>
-      <file name="/fragment.java" timestamp="1502799058286">
+      <file name="/fragment.java" timestamp="1502872084708">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="38" />
         <mark key="." line="0" column="38" />
@@ -155,7 +155,6 @@
         <mark key="]" line="7" column="18" />
         <mark key="." line="7" column="18" />
       </file>
-      <file name="/ServiceRequestRepository.java" timestamp="1502808828705" />
     </filemarks>
     <jumps>
       <jump line="1" column="2" filename="$USER_HOME$/workspaces/spring-boot-workspaces/first/src/main/resources/application-dev.properties" />
