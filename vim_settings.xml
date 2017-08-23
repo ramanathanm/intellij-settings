@@ -226,11 +226,11 @@
       <jump line="133" column="68" filename="C:/softwares/workspaces/scb-bitbucket/svc/csl-svc-documents-v3/src/main/java/com/sc/rdc/csl/documents/service/DocumentService.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>lib</text>
       </register>
       <register name="-" type="4">
-        <text>d</text>
+        <text>lib</text>
       </register>
       <register name="/" type="4">
         <text>create</text>
