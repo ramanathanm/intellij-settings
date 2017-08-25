@@ -232,10 +232,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>lib</text>
+        <text>base</text>
       </register>
       <register name="-" type="4">
-        <text>lib</text>
+        <text>base</text>
       </register>
       <register name="/" type="4">
         <text>create</text>
