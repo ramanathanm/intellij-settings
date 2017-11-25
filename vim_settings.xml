@@ -114,6 +114,11 @@
       <file name="C:/softwares/workspaces/scb-bitbucket/svc/csl-svc-documents-v3/src/main/java/com/sc/rdc/csl/documents/service/DocumentService.java" timestamp="1502966520144">
         <mark key="'" line="133" column="68" />
       </file>
+      <file name="C:/softwares/workspaces/scb-bitbucket/svc/csl-svc-auth/gatling/src/test/scala/simulations/CreditCardSimulation2.scala" timestamp="1511618420804">
+        <mark key="[" line="33" column="27" />
+        <mark key="]" line="33" column="27" />
+        <mark key="." line="33" column="27" />
+      </file>
       <file name="C:/softwares/workspaces/scb-bitbucket/svc/csl-svc-customers-v3/src/main/java/com/sc/csl/retail/customer/gateway/LoanJsonApiGateway.java" timestamp="1508488734878">
         <mark key="." line="44" column="83" />
       </file>
@@ -251,10 +256,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>0</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>0</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx2YWxpZGF0ZUNyZWRpdEJhbFJlZnVuZEVsaWdpYmlsaXR5XD4=</text>
