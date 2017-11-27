@@ -74,8 +74,12 @@
           <option name="url" value="ssh://git@bitbucket.global.standardchartered.com:7999/rdc/csl-svc-registrations.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/swaldman/c3p0.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="C:\softwares\workspaces\scb-bitbucket\svc" />
+    <option name="cloneParentDir" value="C:\softwares\workspaces\github-workspace" />
   </component>
 </application>
