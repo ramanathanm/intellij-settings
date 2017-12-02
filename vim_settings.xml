@@ -97,6 +97,9 @@
         <mark key="." line="45" column="0" />
         <mark key="^" line="44" column="27" />
       </file>
+      <file name="C:/softwares/workspaces/scb-bitbucket/svc/csl-svc-customers-v3/src/main/java/com/sc/csl/retail/customer/service/CustomerService.java" timestamp="1512227054887">
+        <mark key="'" line="76" column="16" />
+      </file>
       <file name="C:/softwares/workspaces/scb-bitbucket/svc/csl-svc-service-request/src/main/java/com/sc/csl/retail/servicerequest/dto/helper/StatusEnquiryPayLoad.java" timestamp="1502716738344">
         <mark key="[" line="22" column="0" />
         <mark key="]" line="22" column="0" />
@@ -163,8 +166,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1" column="2" filename="$USER_HOME$/workspaces/spring-boot-workspaces/first/src/main/resources/application-dev.properties" />
-      <jump line="3" column="0" filename="$USER_HOME$/workspaces/spring-boot-workspaces/first/src/main/resources/application-dev.properties" />
       <jump line="0" column="0" filename="C:/softwares/workspaces/scb-bitbucket/svc/csl-lib-base/src/cdi-edmi-request.xml" />
       <jump line="13" column="13" filename="C:/softwares/workspaces/scb-bitbucket/svc/csl-lib-base/src/main/java/com/sc/csl/retail/core/katharsis/CSLHttpAdapter.java" />
       <jump line="0" column="0" filename="C:/softwares/workspaces/scb-bitbucket/svc/csl-base-pom/pom.xml" />
@@ -260,6 +261,11 @@
       <jump line="1400" column="0" filename="C:/softwares/workspaces/scb-bitbucket/svc/csl-svc-credit-cards/src/main/java/com/sc/csl/retail/creditcard/service/CreditCardFeeWaiverService.java" />
       <jump line="41" column="39" filename="C:/softwares/workspaces/scb-bitbucket/svc/csl-svc-credit-cards/src/main/java/com/sc/csl/retail/creditcard/endpoint/CreditCardRepository.java" />
       <jump line="70" column="62" filename="C:/softwares/workspaces/scb-bitbucket/svc/csl-svc-credit-cards/src/main/java/com/sc/csl/retail/creditcard/endpoint/CreditCardRepository.java" />
+      <jump line="84" column="28" filename="C:/softwares/workspaces/scb-bitbucket/svc/csl-svc-customers-v3/src/main/java/com/sc/csl/retail/customer/service/CustomerService.java" />
+      <jump line="395" column="63" filename="C:/softwares/workspaces/scb-bitbucket/svc/csl-svc-customers-v3/src/main/java/com/sc/csl/retail/customer/service/CustomerService.java" />
+      <jump line="398" column="20" filename="C:/softwares/workspaces/scb-bitbucket/svc/csl-svc-customers-v3/src/main/java/com/sc/csl/retail/customer/service/CustomerService.java" />
+      <jump line="74" column="42" filename="C:/softwares/workspaces/scb-bitbucket/svc/csl-svc-customers-v3/src/main/java/com/sc/csl/retail/customer/service/CustomerService.java" />
+      <jump line="76" column="16" filename="C:/softwares/workspaces/scb-bitbucket/svc/csl-svc-customers-v3/src/main/java/com/sc/csl/retail/customer/service/CustomerService.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -269,7 +275,7 @@
         <text>f</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDx2YWxpZGF0ZUNyZWRpdEJhbFJlZnVuZEVsaWdpYmlsaXR5XD4=</text>
+        <text encoding="base64">XDxjYXNhTGlzdEZ1dHVyZVw+</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBzZXJ2aWNlUmVxdWVzdHMuYWRkKHNlcnZpY2VSZXF1ZXN0KTsK</text>
@@ -306,16 +312,14 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDx2YWxpZGF0ZUNyZWRpdEJhbFJlZnVuZEVsaWdpYmlsaXR5XD4=</last-search>
+      <last-search encoding="base64">XDxjYXNhTGlzdEZ1dHVyZVw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDx2YWxpZGF0ZUNyZWRpdEJhbFJlZnVuZEVsaWdpYmlsaXR5XD4=</last-pattern>
+      <last-pattern encoding="base64">XDxjYXNhTGlzdEZ1dHVyZVw+</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>service.notification.edmi.subscriber.destination</entry>
-        <entry>service.notification.edmi.subscriber</entry>
         <entry encoding="base64">XDxjdXN0b21lcklkXD4=</entry>
         <entry>relId</entry>
         <entry>rel</entry>
@@ -334,6 +338,8 @@
         <entry>create</entry>
         <entry encoding="base64">XDxjcmVkaXRDYXJkRmVlV2FpdmVyU2VydmljZVw+</entry>
         <entry encoding="base64">XDx2YWxpZGF0ZUNyZWRpdEJhbFJlZnVuZEVsaWdpYmlsaXR5XD4=</entry>
+        <entry>allOf</entry>
+        <entry encoding="base64">XDxjYXNhTGlzdEZ1dHVyZVw+</entry>
       </history-search>
       <history-cmd>
         <entry>118</entry>
